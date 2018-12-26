@@ -1,0 +1,6 @@
+# oandaの口座情報
+oanda:
+  # REST APIアクセスの管理: Personal Access Token(文字列)
+  access_token: 'cf34f...dgr20'
+  # 口座情報: アカウントID(数値)
+  account_id: 0123456
