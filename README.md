@@ -62,5 +62,5 @@
 ## 連絡など ##
 
 - Slackにワークスペースを作成しました。   
-  ※ Slackに通知が飛びます。   
+  Slackに通知が飛びます。   
    [reinforcement-learning-fx への招待リンク](https://join.slack.com/t/reinforcement-fx/shared_invite/enQtMjg4MjE0NDMyNDM4LTQ0MzZkODA2MGM2NjUzMWRlMTNkNTIzMzFiMWQ5OGE3YTQ1YjkzODg5NWMyOTczMTZmNThlZWRkZmUzMmU3NGI)
